@@ -1,5 +1,5 @@
 # Auth
-This is a site with three pages, such as:Main, Login, Registration. Each page has different colors, you can go from one page to another, also make registration or log in using your username.
+На этом сайте можно увидеть сколько раз заходили, время потраченное на это, если вы не зашли от не увидите ваше имя в профайле, после входа оно появится, пароль:aa.
 Below are attached photos:
 ![Registration.png]({{site.baseurl}}/Registration.png)
 ![Login.png]({{site.baseurl}}/Login.png)
